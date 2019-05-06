@@ -1,2 +1,2 @@
 # Independent_Projects
-Projects that interest me (for fun)
+Projects that interest me (for fun).
