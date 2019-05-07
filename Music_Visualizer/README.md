@@ -16,3 +16,5 @@ My code does the following steps:
 3) The integer is used as input into the [deep dream algorithm](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/14_DeepDream.ipynb). The higher the integer, the deeper the image transcends into deep dream space. Depending on which layer of the neural network is chosen, you can get qualitatively very different image distortions. For this first video, I used the 8th layer because of personal preference. Note that the algorithm doesn't redo the calculation if it has already done it for a given integer; it simply copies the image from previously. At the end of this loop, I have a folder with thousands of images (30 images per second of the song). 
 4) The images are compiled using FFMEG in the terminal, creating a video that appears to move in response to the beat of the song. Each time you hear the kick drum, the distortions from the deep dream algorithm are maximized.
 
+[![Watch the video](https://youtu.be/madgMBmzsOs)](https://youtu.be/madgMBmzsOs)
+
