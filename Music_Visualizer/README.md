@@ -4,7 +4,7 @@ This repository hosts all files related to my development of music visualizers, 
 
 Beta version of my code [here](https://github.com/Aejohnso/Independent_Projects/blob/master/Music_Visualizer/DeepDreamViz.ipynb).
 
-## Progress
+## Summary
 
 The goal was to create a music visualizer that has deep dream distortions that respond to the music. If you are unfamiliar with deep dream, it can create transformations like this:
 
