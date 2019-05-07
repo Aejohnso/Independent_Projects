@@ -20,3 +20,5 @@ My code does the following steps:
 
 [![Watch the video](https://github.com/Aejohnso/Independent_Projects/blob/master/Music_Visualizer/DeepDream.png)](https://youtu.be/madgMBmzsOs)
 
+[Watch the video](https://youtu.be/madgMBmzsOs){:target="_blank"}
+
