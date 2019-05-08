@@ -26,4 +26,8 @@ Here's another go with different music and visuals. Code [here](https://github.c
 [![Watch the video](https://github.com/Aejohnso/Independent_Projects/blob/master/Music_Visualizer/DeepDreamBlazing.png){:height="200px" width="200px"}](https://www.facebook.com/trazermusic/videos/452995825472775/)
 
 
+[![Watch the video]<img src="https://github.com/Aejohnso/Independent_Projects/blob/master/Music_Visualizer/DeepDreamBlazing.png" width="400" height="400">](https://www.facebook.com/trazermusic/videos/452995825472775/)
+
+
+
 
