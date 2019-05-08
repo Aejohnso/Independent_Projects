@@ -23,6 +23,6 @@ My code does the following steps:
 ## Second Iteration
 Here's another go with different music and visuals. Code [here](https://github.com/Aejohnso/Independent_Projects/blob/master/Music_Visualizer/DeepDreamViz_v2.ipynb). Again, click the image below to watch the video.
 
-[![Watch the video](https://github.com/Aejohnso/Independent_Projects/blob/master/Music_Visualizer/DeepDreamBlazing.png)](https://www.facebook.com/trazermusic/videos/452995825472775/)
+[![Watch the video](https://github.com/Aejohnso/Independent_Projects/blob/master/Music_Visualizer/DeepDreamBlazing.png | width=200)](https://www.facebook.com/trazermusic/videos/452995825472775/)
 
 
